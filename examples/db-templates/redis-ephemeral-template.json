@@ -89,7 +89,7 @@
             "containers": [
               {
                 "name": "redis",
-                "image": " ",
+                "image": "redis",
                 "ports": [
                   {
                     "containerPort": 6379,
